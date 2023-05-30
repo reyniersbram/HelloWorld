@@ -3,6 +3,6 @@
 ## Usage:
 
 ```
-gcc hello.cpp -o hello
+g++ hello.cpp -o hello
 ./hello
 ```
