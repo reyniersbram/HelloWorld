@@ -5,7 +5,6 @@ This is also a way to see all programming languages I know.
 
 ## TODO:
 
-- Haskell
 - SQL
 - C
 - C++
